@@ -1,0 +1,135 @@
+WHERE THE CRAWDADS SING by Delia Owens . Description: In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.
+IT ENDS WITH US by Colleen Hoover . Description: A battered wife raised in a violent home attempts to halt the cycle of abuse.
+VERITY by Colleen Hoover . Description: Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.
+THE 6:20 MAN by David Baldacci . Description: When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.
+UGLY LOVE by Colleen Hoover . Description: Tate Collins and Miles Archer, an airline pilot, think they can handle a no strings attached arrangement. But they can't.
+THE SEVEN HUSBANDS OF EVELYN HUGO by Taylor Jenkins Reid . Description: A movie icon recounts stories of her loves and career to a struggling magazine writer.
+THE IT GIRL by Ruth Ware . Description: A decade after her first year at Oxford, an expectant mother looks into the mystery of her former best friend’s death.
+THE HOTEL NANTUCKET by Elin Hilderbrand . Description: The new general manager of a hotel far from its Gilded Age heyday deals with the complicated pasts of her guests and staff.
+NOVEMBER 9 by Colleen Hoover . Description: Is Ben using his relationship with Fallon as fodder for his novel?
+BOOK LOVERS by Emily Henry . Description: While on vacation in North Carolina, a literary agent keeps running into an editor.
+EVERY SUMMER AFTER by Carley Fortune . Description: The love story of Percy and Sam is told over the course of six summers and one weekend.
+PEOPLE WE MEET ON VACATION by Emily Henry . Description: Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.
+BEACH READ by Emily Henry . Description: A relationship develops between a literary fiction author and a romance novelist as they both try to overcome writer’s block.
+SPARRING PARTNERS by John Grisham . Description: Three novellas: “Homecoming,” “Strawberry Moon” and “Sparring Partners.”
+RISING TIGER by Brad Thor . Description: The 21st book in the Scot Harvath series. The American spy faces dangers on a mission in an unfamiliar culture.
+WHERE THE CRAWDADS SING by Delia Owens . Description: In a quiet town on the North Carolina coast in 1969, a young woman who survived alone in the marsh becomes a murder suspect.
+IT ENDS WITH US by Colleen Hoover . Description: A battered wife raised in a violent home attempts to halt the cycle of abuse.
+VERITY by Colleen Hoover . Description: Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.
+THE 6:20 MAN by David Baldacci . Description: When his ex-girlfriend turns up dead in his office building, an entry-level investment analyst delves into the halls of economic power.
+UGLY LOVE by Colleen Hoover . Description: Tate Collins and Miles Archer, an airline pilot, think they can handle a no strings attached arrangement. But they can't.
+THE SEVEN HUSBANDS OF EVELYN HUGO by Taylor Jenkins Reid . Description: A movie icon recounts stories of her loves and career to a struggling magazine writer.
+THE IT GIRL by Ruth Ware . Description: A decade after her first year at Oxford, an expectant mother looks into the mystery of her former best friend’s death.
+THE HOTEL NANTUCKET by Elin Hilderbrand . Description: The new general manager of a hotel far from its Gilded Age heyday deals with the complicated pasts of her guests and staff.
+NOVEMBER 9 by Colleen Hoover . Description: Is Ben using his relationship with Fallon as fodder for his novel?
+BOOK LOVERS by Emily Henry . Description: While on vacation in North Carolina, a literary agent keeps running into an editor.
+EVERY SUMMER AFTER by Carley Fortune . Description: The love story of Percy and Sam is told over the course of six summers and one weekend.
+PEOPLE WE MEET ON VACATION by Emily Henry . Description: Opposites Poppy and Alex meet to vacation together one more time in hopes of saving their relationship.
+BEACH READ by Emily Henry . Description: A relationship develops between a literary fiction author and a romance novelist as they both try to overcome writer’s block.
+SPARRING PARTNERS by John Grisham . Description: Three novellas: “Homecoming,” “Strawberry Moon” and “Sparring Partners.”
+RISING TIGER by Brad Thor . Description: The 21st book in the Scot Harvath series. The American spy faces dangers on a mission in an unfamiliar culture.
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n', 'n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/','/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
+book_list[e]['title'], 'by', book_list[e]['author'], '. Description:', book_list[e]['description'] '/n/'
